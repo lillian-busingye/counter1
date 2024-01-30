@@ -1,0 +1,12 @@
+.container {
+    padding: 20%;
+}
+.h1 {
+    
+}
+.btn {
+    border-radius: 1px solid grey;
+    background-color: grey;
+    color: white;
+    gap: 20px;
+}
